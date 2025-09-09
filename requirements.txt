@@ -1,0 +1,11 @@
+fastapi[all]
+langchain
+langchain-community
+langchain-core
+langchain-openai
+python-dotenv
+pypdf
+unstructured
+faiss-cpu
+docx2txt
+html2text
